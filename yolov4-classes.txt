@@ -1,0 +1,8 @@
+Examined
+Label
+Parameter-Code
+Parameter Description
+unit
+result
+operator
+Date
